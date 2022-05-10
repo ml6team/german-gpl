@@ -1,0 +1,16 @@
+bandit==1.7.1
+pylint==2.5.3
+transformers==4.18.0
+datasets==2.0.0
+jupyter==1.0.0
+#torch==1.11.0
+sentencepiece==0.1.96
+tqdm==4.64.0
+google-cloud-storage==2.3.0
+google-cloud-bigquery==3.0.1
+db-dtypes==1.0.0
+wandb==0.12.14
+sentence-transformers==2.2.0
+#google-cloud-aiplatform==1.12.0
+rouge==1.0.1
+numpy==1.22.3

@@ -1,0 +1,9 @@
+dataset
+bucket
+terraform
+src/wandb
+model_path
+src/out.log
+src/tmp
+model-chkp
+model-chkp-eval
